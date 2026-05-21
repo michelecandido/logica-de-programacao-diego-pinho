@@ -1,0 +1,5 @@
+print("********************")
+print("Nome: Michele Candido")
+print("Profissão: estagiária")
+print("Cidade: Tramandaí")
+print("********************")

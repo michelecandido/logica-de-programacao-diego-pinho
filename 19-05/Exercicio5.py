@@ -1,0 +1,1 @@
+print("Um " + input("Digite um animal: ") + " foi até a " + input("Digite um lugar: ") + " e encontrou um " + input("Digite um objeto: ") + " mágico.")
